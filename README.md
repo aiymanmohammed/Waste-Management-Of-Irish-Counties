@@ -1,4 +1,3 @@
-# Waste-Management-Of-Irish-Counties
 <!DOCTYPE html>
 <html lang="en">
 <head>
